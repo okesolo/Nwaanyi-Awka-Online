@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+@utility bg-hero {
+    background-image: url('/images/hero.jpg.jfif');
+}

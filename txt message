@@ -1,0 +1,256 @@
+
+
+
+ MamaPutOnline (Nwaanyi Akwa Foods)
+
+Root Thought (Project Goal)
+
+> You are a Senior UI/UX Designer and Senior Frontend Engineer specializing in modern food delivery websites.
+
+> Your objective is to build a premium Nigerian food delivery landing page using only **HTML5 and Tailwind CSS** (no JavaScript and no inline CSS).
+
+> The website should look like a professional product that could compete with Uber Eats, Chowdeck, Glovo, and DoorDash while maintaining a strong Nigerian identity.
+
+> Design should be mobile-first, highly responsive, reusable, accessible, and visually appealing.
+
+
+
+Design System
+
+Think carefully about the visual identity before writing any code.
+
+Create
+
+* Primary color palette (orange)
+* Secondary colors (yellow)
+* Typography hierarchy
+* Border radius system
+* Shadow system
+* Button styles
+* Card styles
+* Hover effects
+* Animation strategy using Tailwind transitions only
+* Spacing scale
+
+The design should feel
+
+* warm
+* premium
+* trustworthy
+* appetizing
+* modern
+
+
+
+Navigation
+
+Design a sticky navigation.
+
+Requirements
+
+* Logo on the left
+* Orange and yellow branding
+* Navigation links centered
+* Cart button on the right
+* Shadow on scroll appearance
+* Desktop and mobile responsive
+* Maximum width container
+* Clean spacing
+* Hover states
+
+
+
+Hero Section
+
+Design an attention-grabbing hero.
+
+Include:
+
+Large headline
+
+"The Taste of Home, Delivered Fast."
+
+Short description
+Primary CTA
+Secondary CTA
+Hero food image
+Floating food cards
+Soft gradients
+Rounded corners
+Subtle shadows
+Balanced white space
+
+
+
+Food Categories
+
+Create beautiful category cards.
+
+Examples
+
+* Soups
+* Rice
+* Swallow
+
+Each card should contain
+
+* image
+* title
+* short description
+* hover animation
+
+
+
+Popular Delicacies
+
+Create premium food cards similar to modern e-commerce websites.
+
+Each card should include
+
+* food image
+* discount badge
+* food title
+* description
+* current price
+* old price
+* serving size
+* Add to Cart button
+* rounded corners
+* hover lift animation
+* shadow
+
+Cards should align perfectly on every screen size.
+
+
+
+Why Choose MamaPutOnline
+
+Create a highlighted section with a yellow background.
+
+Include three premium feature cards
+
+Authentic Taste
+
+Lightning Delivery
+
+Easy Payments
+
+Each card should contain
+
+* colorful icon
+* heading
+* short explanation
+
+Ensure excellent spacing on mobile.
+
+
+
+Testimonials
+
+Create customer review cards.
+
+Include
+
+* avatar
+* customer name
+* star rating
+* review
+* location
+
+Cards should have soft shadows and rounded corners.
+
+
+
+Newsletter
+
+Create an attractive newsletter subscription section.
+
+Include
+
+* title
+* short text
+* email field
+* subscribe button
+
+Use orange gradient background.
+
+
+Footer
+
+Create a premium footer.
+
+Include
+
+* logo
+* navigation
+* contact information
+* social icons
+* copyright
+
+Use a dark background with orange accents.
+
+
+Responsive Strategy
+
+Think like a responsive design expert.
+
+Optimize for
+
+* Mobile
+* Tablet
+* Laptop
+* Desktop
+* Ultra-wide monitors
+
+Ensure
+
+* no horizontal scrolling
+* balanced spacing
+* readable typography
+* adaptive grids
+* proper padding
+
+
+
+Tailwind Best Practices
+
+
+
+Use
+
+* reusable utility classes
+* max-width containers
+* flex
+* grid
+* gap utilities
+* responsive breakpoints
+* transitions
+* hover effects
+* rounded corners
+* shadow hierarchy
+
+Avoid
+
+* inline CSS
+* duplicate classes
+* unnecessary wrappers
+
+
+ Final Review
+
+Before completing the code, perform a professional UI review.
+
+Check for
+
+* Visual consistency
+* Proper alignment
+* Responsive behavior
+* Accessibility
+* Typography hierarchy
+* Color contrast
+* Button consistency
+* Card consistency
+* Padding and margins
+* Professional finish
+
+The final output should look like a polished Nigerian food delivery platform suitable for production, with clean, maintainable HTML and Tailwind CSS that follows modern frontend engineering best practices.
